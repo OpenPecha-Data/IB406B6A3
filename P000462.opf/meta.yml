@@ -1,16 +1,17 @@
-id: opecha:P000462
+id: P000462
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG01602
   title: འཕགས་པ་མཚན་ཡང་དག་པར་བརྗོད་པའི་མཚན་གྱི་སྔགས་དོན་གཟིགས་པའི་རྣམ་པར་བཤད་པ
-  volume:
+  author: ''
+  volumes:
     bb18c4b915214798a64309726c3bc9c1:
       image_group_id: I00KG02840
       title: Volume 1 of 'phags pa mtshan yang dag par brjod pa'i mtshan gyi sngags
         don gzigs pa'i rnam par bshad pa
       volume_number: 1
       total_pages: 194
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འཕགས་པ་མཚན་ཡང་དག་པར་བརྗོད་པའི་མཚན་གྱི་སྔགས་དོན་གཟིགས་པའི་རྣམ་པར་བཤད་པ
   author: ''
